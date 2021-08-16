@@ -27,6 +27,7 @@
 <!-- <a href="https://medium.com/@allansrc"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=allansrc&&show_icons=true&title_color=FFA10B&icon_color=FFA10B&text_color=ffffff&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allansrc&&show_icons=true&e&title_color=FFA10B&icon_color=FFA10B&text_color=ffffff&bg_color=151515&layout=compact"/>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allansrc&theme=dark&layout=compact&show_icons=true&title_color=FFA10B&icon_color=FFA10B"/> -->
 <code><img src="https://komarev.com/ghpvc/?username=allansrc&style=flat&color=yellow"></code>
 
