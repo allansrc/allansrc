@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working from Home
-- 👨 I also on the @dahliaos team
+- 👨 I also on the [dahliaos](https://github.com/dahliaos) team
 - 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) & Computer Systems Analisys
 - 🌱 I’m currently learning OS' development <img height="24" src="https://avatars0.githubusercontent.com/u/12826430?s=200&v=4">
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCrFTsrNTqLaVleQ_FeKYrsQ) [Medium]
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCrFTsrNTqLaVleQ_FeKYrsQ)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [Twitter](https://twitter.com/allansrc) or [Instagram](https://instagram.com/allansrc)
