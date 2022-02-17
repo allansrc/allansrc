@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working from Home
-- 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) 〰
+- 👨 I also on the @dahliaos team
+- 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) & Computer Systems Analisys
 - 🌱 I’m currently learning OS' development <img height="24" src="https://avatars0.githubusercontent.com/u/12826430?s=200&v=4">
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCrFTsrNTqLaVleQ_FeKYrsQ) [Medium]
 <!-- - 🤔 I’m looking for help with ... -->
