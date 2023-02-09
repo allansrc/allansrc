@@ -1,6 +1,7 @@
 ### Hi there 👋
+<!-- - 🔭 I’m currently working from Home @ [Nubank](https://github.com/nubank)  -->
 
-- 🔭 I’m currently working from Home @ [Nubank](https://github.com/nubank)
+- 🔭 I’m currently working from Home @ ATO Software LLC
 - 👨 I also on the [dahliaos](https://github.com/dahliaos) team
 - 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) & Computer Systems Analisys
 - 🌱 I’m currently learning OS' development <img height="24" src="https://avatars0.githubusercontent.com/u/12826430?s=200&v=4">
