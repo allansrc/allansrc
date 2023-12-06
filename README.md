@@ -1,14 +1,15 @@
-### Hi there 👋
+
 <!-- - 🔭 I’m currently working from Home @ [Nubank](https://github.com/nubank)  -->
-<code><img src="https://media.licdn.com/dms/image/D4D03AQFi5fznN5ABuQ/profile-displayphoto-shrink_800_800/0/1692990889723?e=1707350400&v=beta&t=ZLLgCL96v59FjVB-07i4qPKi-vl-ZvW1VTN1ubh9z4Q" alt="Speacker Image" style="vertical-align: middle; width: 50px; height: 50px; border-radius: 50%;"></code>
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<code><img src="https://github.com/allansrc/allansrc/blob/master/assets/1692990889723-modified.png" alt="Speacker Image" style="vertical-align: middle; width: 150px; height: 150px; border-radius: 50%;"></code>
+## **Hi there** 👋
 
 - 🔭 I’m currently working from Home
 - 👨 I'm also a Speaker and Organizer in Flutter and CS Communities
 - 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) & Bachelor on Computer Science field
 - 🌱 I’m currently learning OS' development and doing some stuff with Fuchsia<img height="24" src="https://avatars0.githubusercontent.com/u/12826430?s=200&v=4">
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCrFTsrNTqLaVleQ_FeKYrsQ)
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 🔉 My previus Talks and events: [Talks](https://github.com/allansrc/allansrc/blob/master/talks.MD)
 - 📫 How to reach me: [Twitter/X](https://twitter.com/allansrc) or [Instagram](https://instagram.com/allansrc) or even [Linkedin](https://www.linkedin.com/in/allanrt/)
 - 😄 Pronouns: he/him
