@@ -1,7 +1,7 @@
 # My Talks
 
 > **Flutter em apps Nativos**
-description: Como NÃO criar o monstro perfeito
+>> description: Como NÃO criar o monstro perfeito
 location: João Pessoa - PB
 host: DevFest Nordeste 2023
 02/12/2023
