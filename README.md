@@ -10,7 +10,7 @@
 - 🧑🏼‍🎓 I’m Majoring in English (Research in Phonetics) & Bachelor on Computer Science field
 - 🌱 I’m currently learning OS' development and doing some stuff with Fuchsia<img height="24" src="https://avatars0.githubusercontent.com/u/12826430?s=200&v=4">
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCrFTsrNTqLaVleQ_FeKYrsQ)
-- 🔉 My previus Talks and events: [Talks](https://github.com/allansrc/allansrc/blob/master/talks.MD)
+- 🔉 My previus Talks and events: [Talks](https://allansrc.com.br/)
 - 📫 How to reach me: [Twitter/X](https://twitter.com/allansrc) or [Instagram](https://instagram.com/allansrc) or even [Linkedin](https://www.linkedin.com/in/allanrt/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do like 🐱 & 🦆
