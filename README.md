@@ -2,7 +2,7 @@
 <!-- - 🔭 I’m currently working from Home @ [Nubank](https://github.com/nubank)  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<code><img src="https://github.com/allansrc/allansrc/blob/master/assets/1692990889723-modified.png" alt="Speacker Image" style="vertical-align: middle; width: 150px; height: 150px; border-radius: 50%;"></code>
+<code><img src="https://github.com/allansrc/allansrc/blob/master/assets/TDC BUSINESS SP - 18_09-1543.jpg" alt="Speacker Image" style="vertical-align: middle; width: 150px; height: 150px; border-radius: 50%;"></code>
 ## **Hi there** 👋
 
 - 🔭 I’m currently working from Home
